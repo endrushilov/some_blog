@@ -1,0 +1,77 @@
+@media screen and (max-width: 1024px){
+	.content .post-one, .content .post-one:focus, .content .post-one:active{
+		width: 100%;
+	    padding: 3%;
+	    margin: 5vw 0 0 0;
+	    text-decoration: none;
+	}
+	.App-title{
+		font-size: 6vw;
+	}
+	.content .post-one .post-title{
+		font-size: 5vw;
+	}
+	.content .post-one .post-text{
+		font-size: 4vw;
+	}
+	.logo{
+		width: 30%;
+	    height: auto;
+	    left: 50%;
+	    margin: 0 0 0 -15%;
+	    top: 5%;
+	}
+	.header, .footer{
+		height: 44vw;
+	}
+	.page-nav{
+		width: 100%;
+	    text-align: center;
+	    top: 7vw;
+	    padding: 0;
+	    margin: 0;
+	}
+	.page-nav-item{
+		display: block;
+    	margin: 5vw 0;
+	}
+	.page-nav-item a{
+		font-size: 4vw;
+	}
+	.content{
+		padding: 5% 0 50vw 0;
+	}
+	.post-description-wrap{
+	    padding: 0 0 50vw 0;
+	}
+	.post-description{
+		border-top-right-radius: 2vw;
+	    border-top-left-radius: 2vw;
+	    margin: 5% auto 0 auto;
+	    padding: 0 0 2vw 0;
+	}
+	.post-author{
+		font-size: 3vw;
+    	padding: 2% 5%;
+	}
+	.post-description-title{
+		font-size: 5vw;
+	}
+	.post-description-body{
+		font-size: 3.5vw;
+    	margin: 2% 0;
+	}
+	.comments-title{
+		font-size: 4vw;
+    	margin: 3% 0;
+	}
+	.post-description-post{
+		font-size: 4vw;
+	}
+	.comment{
+		padding: 3% 2%;
+	    border-radius: 2vw;
+	    margin: 0 auto 5% auto;
+	    font-size: 3vw;
+	}
+}

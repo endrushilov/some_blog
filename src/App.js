@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import './mobile.css';
 import Content from './components/content';
 import {bindActionCreators} from 'redux';
 import axios from "axios";
